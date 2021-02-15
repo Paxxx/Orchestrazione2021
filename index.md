@@ -12,3 +12,12 @@ layout: default
 <span style="font-size:18px">   [I - Introduzione](./Lezione01/l01.html)   </span>
 
 <span style="font-size:18px">  [II - Legni](./Lezione02/L02.html) </span>
+
+
+<br>
+
+<br>
+
+
+
+<span style="font-size:18px">  [Bibliografia](Biblio.html) </span>
