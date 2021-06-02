@@ -19,10 +19,20 @@ layout: default
 
 <span style="font-size:18px">  [IV - Ottoni](./Lezione04/L04.html) </span>
 
-<br>
+
+<span style="font-size:18px">  [V - Strumenti a Tastiera](./Lezione05/L05.html) </span>
+
+
+<span style="font-size:18px">  [VI - Archi](./Lezione06/L06.html) </span>
+
+
 
 <br>
 
+<br>
+
+
+<span style="font-size:18px">  [Manuali](./Manuali/man.html) </span>
 
 
 <span style="font-size:18px">  [Bibliografia](Biblio.html) </span>
