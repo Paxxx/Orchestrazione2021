@@ -1,18 +1,10 @@
----
-layout: default
----
+I"�<p><a href="/index">Home</a></p>
 
-[Home]({{ site.baseurl }}/index)
+<p><br /></p>
 
+<h2 id="archi">ARCHI</h2>
 
-<br>
-
-
-## ARCHI
-
-
-
-• VIDEOLEZIONE [III TR Musica Elettronica] <a href="https://www.youtube.com/watch?v=yeh3f7X0qPI" target="_blank">Link</a>
+<p>• VIDEOLEZIONE [III TR Musica Elettronica] <a href="https://www.youtube.com/watch?v=yeh3f7X0qPI" target="_blank">Link</a></p>
 
 <!--
 • VIDEOLEZIONE [III TR Musica Applicata] <a href="https://www.youtube.com/watch?v=3ZS0q8YuaxQ" target="_blank">Link</a>
@@ -22,9 +14,9 @@ layout: default
 
 -->
 
-______
+<hr />
 
-### APPUNTI
+<h3 id="appunti">APPUNTI</h3>
 <!--
 
 • Contenuti:
@@ -46,67 +38,35 @@ ______
 <a href="https://www.dropbox.com/s/rxff4cafgc5tqtk/1979_127_4.pdf?dl=0" target="_blank">PDF</a>
 -->
 
+<hr />
 
+<hr />
 
-
-
-
-
-
-______
-
-
-Posizioni per bicordi ed accordi sugli archi:
-
-<a href="https://www.dropbox.com/s/d2qq51o45po42rv/accordi-archi.pdf?dl=0" target="_blank">PDF</a>
-
-
-
-______
-
-### PARTITURE CONSIGLIATE
-
+<h3 id="partiture-consigliate">PARTITURE CONSIGLIATE</h3>
 
 <!-- • xxx - *yyy* (da zzz, [1909])
 
 • G. Grisey - *Anubis et Nout* per clarinetto contrabbasso ( [1985])-->
 
-• P. Billone - *ITI KE MI* per viola  [1995]    
-• P. Billone - *MANI. GIACOMETTI* per violino, viola, violoncello  [2000]   
-• H. Lachenmann - *PRESSION* per violoncello  [1969]   
-• H. Lachenmann - *TOCCATINA* per violino  [1986]   
-• G. Netti - *RINASCERE SIRENA* per violino, viola, violoncello  [2004]  
-• K. Penderecki - *POLYMORPHIA* per orchestra d'archi  [1961]    
-• K. Penderecki - *TREN OFIAROM HIROSZIMY* per 52 archi  [1961]   
-• K. Penderecki - *QUARTETTO* per quartetto d'archi  [1962]    
-• K. Saariaho - *FOLIA* per contrabbasso ed elettronica  [1994]   
-• S. Sciarrino - *AI LIMITI DELLA NOTTE* per viola  [1979]  
-• S. Sciarrino - *ESPLORAZIONE DEL BIANCO* per contrabbasso  [1986]   
+<p>• P. Billone - <em>ITI KE MI</em> per viola  [1995]  <br />
+• P. Billone - <em>MANI. GIACOMETTI</em> per violino, viola, violoncello  [2000] <br />
+• H. Lachenmann - <em>PRESSION</em> per violoncello  [1969] <br />
+• H. Lachenmann - <em>TOCCATINA</em> per violino  [1986] <br />
+• G. Netti - <em>RINASCERE SIRENA</em> per violino, viola, violoncello  [2004]<br />
+• K. Penderecki - <em>POLYMORPHIA</em> per orchestra d’archi  [1961]  <br />
+• K. Penderecki - <em>TREN OFIAROM HIROSZIMY</em> per 52 archi  [1961] <br />
+• K. Penderecki - <em>QUARTETTO</em> per quartetto d’archi  [1962]  <br />
+• K. Saariaho - <em>FOLIA</em> per contrabbasso ed elettronica  [1994] <br />
+• S. Sciarrino - <em>AI LIMITI DELLA NOTTE</em> per viola  [1979]<br />
+• S. SCiarrino - <em>ESPLORAZIONE DEL BIANCO</em> per contrabbasso  [1986]</p>
 
+<p><img src="accordi-archi.pdf" alt="accordiarchi" /></p>
 
+<p><a href="https://www.dropbox.com/sh/7erofvcx96h5aao/AACVTihk4p8NpaWb47oi0Yv9a?dl=0" target="_blank">PARTITURE</a></p>
 
+<hr />
 
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://www.dropbox.com/sh/7erofvcx96h5aao/AACVTihk4p8NpaWb47oi0Yv9a?dl=0" target="_blank">PARTITURE</a>
-
-
-______
-
-
-
-
-
-### ASCOLTI CONSIGLIATI
+<h3 id="ascolti-consigliati">ASCOLTI CONSIGLIATI</h3>
 <!--
 
 • S. Bussotti- *La Passion Selon Sade* per ensemble [1965]
@@ -124,7 +84,7 @@ ______
 
 -->
 
-<br>
+<p><br /></p>
 
-
-[Home]({{ site.baseurl }}/index)
+<p><a href="/index">Home</a></p>
+:ET
