@@ -1,20 +1,12 @@
----
-layout: default
----
+I"	<p><a href="/index">Home</a></p>
 
-[Home]({{ site.baseurl }}/index)
+<p><br /></p>
 
+<h2 id="strumenti-a-percussione">STRUMENTI A PERCUSSIONE</h2>
 
-<br>
+<p>• VIDEOLEZIONE [III TR Musica Elettronica]</p>
 
-
-## STRUMENTI A PERCUSSIONE
-
-
-
-• VIDEOLEZIONE [III TR Musica Elettronica]
-
-<a href="https://www.youtube.com/watch?v=W3Vnazft4Ro" target="_blank">- PARTE 1</a>
+<p><a href="https://www.youtube.com/watch?v=W3Vnazft4Ro" target="_blank">- PARTE 1</a></p>
 
 <!--
 • VIDEOLEZIONE [III TR Musica Applicata] <a href="https://www.youtube.com/watch?v=3ZS0q8YuaxQ" target="_blank">Link</a>
@@ -24,9 +16,9 @@ layout: default
 
 -->
 
-______
+<hr />
 
-### APPUNTI
+<h3 id="appunti">APPUNTI</h3>
 <!--
 
 • Contenuti:
@@ -41,51 +33,26 @@ ______
 
 -->
 
+<hr />
+<hr />
 
-
-
-
-
-
-
-______
-______
-
-### PARTITURE CONSIGLIATE
-
+<h3 id="partiture-consigliate">PARTITURE CONSIGLIATE</h3>
 
 <!-- • xxx - *yyy* (da zzz, [1909])
 
 • G. Grisey - *Anubis et Nout* per clarinetto contrabbasso ( [1985])-->
 
+<p>• K. Stockhausen- <em>Kontakte</em> per Pianoforte, Percussioni e Nastro Magnetico [1960]</p>
 
-• K. Stockhausen- *Kontakte* per Pianoforte, Percussioni e Nastro Magnetico [1960]
+<p>• K. Stockhausen- <em>Zyklus</em> per un percussionista [1960]</p>
 
-• K. Stockhausen- *Zyklus* per un percussionista [1960]
+<p>• E. Varèse- <em>Ionisation</em> per 13 percussionisti [1929-31]</p>
 
+<p><a href="https://www.dropbox.com/sh/7erofvcx96h5aao/AACVTihk4p8NpaWb47oi0Yv9a?dl=0" target="_blank">PARTITURE</a></p>
 
-• E. Varèse- *Ionisation* per 13 percussionisti [1929-31]
+<hr />
 
-
-
-
-
-
-
-
-
-
-
-<a href="https://www.dropbox.com/sh/0ivsqoec2jytpue/AAAvW9f2AJz7lUOtE5fIKQlsa?dl=0" target="_blank">PARTITURE</a>
-
-
-______
-
-
-
-
-
-### ASCOLTI CONSIGLIATI
+<h3 id="ascolti-consigliati">ASCOLTI CONSIGLIATI</h3>
 <!--
 
 • S. Bussotti- *La Passion Selon Sade* per ensemble [1965]
@@ -103,7 +70,7 @@ ______
 
 -->
 
-<br>
+<p><br /></p>
 
-
-[Home]({{ site.baseurl }}/index)
+<p><a href="/index">Home</a></p>
+:ET
