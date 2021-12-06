@@ -11,10 +11,7 @@ layout: default
 ### VIDEOLEZIONI
 
 
-* [III TR Musica Elettronica] <a href="https://www.youtube.com/watch?v=eAfIIRdLMWk" target="_blank">Link</a>
-
-
-*  [II TR Musica Applicata]  <a href="https://www.youtube.com/watch?v=4ejL_nBj-ZM" target="_blank">Link</a>
+*  <a href="https://www.youtube.com/watch?v=eAfIIRdLMWk" target="_blank">Link</a>
 
 ______
 
@@ -30,7 +27,7 @@ ______
 - Tempi d'attacco
 - Comparazione Attacchi per famiglie - Posizionamento orchestrale
 
-<a href="https://www.academia.edu/46947035/Orchestrazione_Contemporanea_00_INTRO" target="_blank">PDF</a>
+<a href="https://www.academia.edu/46947035/Orchestrazione_Contemporanea_01_INTRODUZIONE_Comparazioni_di_caratteristiche_sonore" target="_blank">PDF</a>
 
 Curva dinamica in relazione al registro (per ogni strumento): <a href="https://www.dropbox.com/s/v92ld83s97w64bd/Fr_Range_Registri_Curva_Dinamica.pdf?dl=0" target="_blank">PDF</a>
 

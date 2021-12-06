@@ -1,18 +1,10 @@
----
-layout: default
----
-
-
-<br>
-
-
+I"z<p><br /></p>
 
 <!-- [1 - Introduzione](./another-page.html) -->
 
-<span style="font-size:18px">   [I - Introduzione](./Lezione01/Introduzione.html)   </span>
+<p><span style="font-size:18px">   <a href="./Lezione01/Introduzione.html">I - Introduzione</a>   </span></p>
 
-
-<span style="font-size:18px">   [II - Flauti](./Lezione01/flauti.html)   </span>
+<p><span style="font-size:18px">   <a href="./Lezione01/flauti.html">II - Flauti</a>   </span></p>
 
 <!--
 
@@ -31,12 +23,11 @@ layout: default
 <span style="font-size:18px">  [VII - Percussioni](./Lezione07/L07.html) </span>
  -->
 
-<br>
+<p><br /></p>
 
-<br>
+<p><br /></p>
 
+<p><span style="font-size:18px">  <a href="./Manuali/man.html">Manuali</a> </span></p>
 
-<span style="font-size:18px">  [Manuali](./Manuali/man.html) </span>
-
-
-<span style="font-size:18px">  [Bibliografia](Biblio.html) </span>
+<p><span style="font-size:18px">  <a href="Biblio.html">Bibliografia</a> </span></p>
+:ET
