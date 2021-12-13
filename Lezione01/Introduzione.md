@@ -8,11 +8,6 @@ layout: default
 
 <br>
 
-### VIDEOLEZIONI
-
-
-*  <a href="https://www.youtube.com/watch?v=eAfIIRdLMWk" target="_blank">Link</a>
-
 ______
 
 ### APPUNTI

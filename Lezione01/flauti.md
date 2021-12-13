@@ -10,6 +10,10 @@ layout: default
 
 <a href="https://www.youtube.com/watch?v=0CUnwOFLxu8" target="_blank">Link</a>
 
+• Lezione di riepilogo (più parte compositiva):   
+
+<a href="https://www.youtube.com/watch?v=QNd1E-UYsxM" target="_blank">Link</a>
+
 
 ______
 
