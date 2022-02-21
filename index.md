@@ -16,13 +16,15 @@ layout: default
 
 <span style="font-size:18px">   [III - Clarinetti](./Lezione02/L02.html)   </span>
 
+
+
+<span style="font-size:18px">  [IV - Sax](./Lezione03/L03.html) </span>
+
+
+<span style="font-size:18px">  [V - Ottoni](./Lezione04/L04.html) </span>
+
+
 <!--
-
-<span style="font-size:18px">  [III - Sax](./Lezione03/L03.html) </span>
-
-
-<span style="font-size:18px">  [IV - Ottoni](./Lezione04/L04.html) </span>
-
 
 <span style="font-size:18px">  [V - Strumenti a Tastiera](./Lezione05/L05.html) </span>
 
