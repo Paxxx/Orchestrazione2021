@@ -24,6 +24,9 @@ layout: default
 <span style="font-size:18px">  [V - Ottoni](./Lezione04/L04.html) </span>
 
 
+<span style="font-size:18px">  [VI - Percussioni](./Lezione06/L06.html) </span>
+
+
 <!--
 
 <span style="font-size:18px">  [V - Strumenti a Tastiera](./Lezione05/L05.html) </span>
@@ -32,7 +35,7 @@ layout: default
 <span style="font-size:18px">  [VI - Archi](./Lezione06/L06.html) </span>
 
 
-<span style="font-size:18px">  [VII - Percussioni](./Lezione07/L07.html) </span>
+
  -->
 
 <br>
