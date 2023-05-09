@@ -27,13 +27,13 @@ layout: default
 <span style="font-size:18px">  [VI - Percussioni](./Lezione06/L06.html) </span>
 
 
-<span style="font-size:18px">  [V - Strumenti a Tastiera](./Lezione06a/L06a.html) </span>
+<span style="font-size:18px">  [VII - Strumenti a Tastiera](./Lezione06a/L06a.html) </span>
 
 
-<span style="font-size:18px">  [VI - Archi](./LezioneXX/LXX.html) </span>
+<span style="font-size:18px">  [VIII - Archi](./LezioneXX/LXX.html) </span>
 
 
-<span style="font-size:18px">  [VII - Orchestra Intera](./LezioneXXI/orchestra.html) </span>
+<span style="font-size:18px">  [IX - Orchestra Intera](./LezioneXXI/orchestra.html) </span>
 
 
 
